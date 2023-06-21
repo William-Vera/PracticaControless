@@ -92,7 +92,7 @@
         android:layout_marginStart="97dp"
         android:layout_marginTop="236dp"
         android:ems="10"
-        android:inputType="text"
+        android:inputType="textCapCharacters"
         android:maxLength="200" />
 
     <EditText
@@ -117,7 +117,7 @@
         android:layout_marginStart="110dp"
         android:layout_marginTop="119dp"
         android:ems="10"
-        android:inputType="text"
+        android:inputType="textCapCharacters"
         android:maxLength="500" />
 
     <TextView
